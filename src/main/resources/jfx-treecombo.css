@@ -1,0 +1,14 @@
+.jfx-treecombo {
+	-fx-skin: "be.nabu.jfx.control.treecombo.TreeComboBoxSkin";
+}
+
+.jfx-treecombo-button {
+	-fx-background-image: url("arrow-down.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+	-fx-background-size: 5px;
+}
+
+.context-menu .menu-item {
+	-fx-background-color: transparent;
+}
