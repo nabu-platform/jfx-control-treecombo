@@ -151,7 +151,7 @@ public class TreeComboBox<T> extends Control {
 	}
 	
 	@Override
-	protected String getUserAgentStylesheet() {
+	public String getUserAgentStylesheet() {
 		return Tree.class.getClassLoader().getResource("jfx-treecombo.css").toExternalForm();
 	}
 
