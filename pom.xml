@@ -28,5 +28,11 @@
 			<artifactId>jfx-control-tree</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.openjfx/javafx-controls -->
+		<dependency>
+		    <groupId>org.openjfx</groupId>
+		    <artifactId>javafx-controls</artifactId>
+		    <version>23</version>
+		</dependency>
 	</dependencies>
 </project>
